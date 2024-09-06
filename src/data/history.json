@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Varsity Hackathon",
+    "organisation": "USM",
+    "experiences": ["Free Dept Sail", "A system to help manage debt", "Working with React and Node"],
+    "imageSrc": "history/VHack_Logo.png"
+  },
+  {
+    "role": "Capture The Flag",
+    "organisation": "Kinabalu Coders",
+    "experiences": ["Worked on Linux environment", "Finding vulnerabilities on a website"],
+    "imageSrc": "history/KC_Logo.png"
+  },
+  {
+    "role": "3108 CTF",
+    "organisation": "Bahtera Siber",
+    "experiences": [
+      "Jeopardy challenges",
+      "Worked on Linux environment"
+    ],
+    "imageSrc": "history/bahtera_siber.png"
+  }
+]

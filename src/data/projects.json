@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Free Debt Sail",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to help people to manage their debt. This is made during the Varsity Hackathon",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/helm-pixel/DebtFreeSail"
+  }
+]
